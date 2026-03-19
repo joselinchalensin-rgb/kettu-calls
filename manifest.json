@@ -1,0 +1,12 @@
+{
+  "name": "GhostCalls",
+  "description": "Oculta llamadas del chat 1355988541506847053",
+  "authors": [
+    {
+      "name": "Joselin",
+      "id": "tu_id_de_discord"
+    }
+  ],
+  "main": "GhostCalls.js",
+  "version": "1.0.0"
+}
